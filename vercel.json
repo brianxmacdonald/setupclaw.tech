@@ -7,7 +7,7 @@
     { "src": "/blog", "dest": "/blog.html" },
     { "src": "/blog/([^/]+)", "dest": "/blog/$1.html" },
     { "src": "/(.*)", "dest": "/$1" }
-    { "src": "/calendar", "dest": "/calendar.html" },
-    { "src": "/calendar", "dest": "/calendar.html" },
+    { "src": "/privacy", "dest": "/privacy.html" },
+    { "src": "/terms", "dest": "/terms.html" },
   ]
 }
