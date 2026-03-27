@@ -2,6 +2,7 @@
   "version": 2,
   "routes": [
     { "src": "/clawsourcing", "dest": "/clawsourcing.html" },
+    { "src": "/calendar", "dest": "/calendar.html" },
     { "src": "/blog", "dest": "/blog.html" },
     { "src": "/blog/([^/]+)", "dest": "/blog/$1.html" },
     { "src": "/(.*)", "dest": "/$1" }
