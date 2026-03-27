@@ -3,8 +3,11 @@
   "routes": [
     { "src": "/clawsourcing", "dest": "/clawsourcing.html" },
     { "src": "/calendar", "dest": "/calendar.html" },
+    { "src": "/brianxmacdonald", "dest": "/brianxmacdonald.html" },
     { "src": "/blog", "dest": "/blog.html" },
     { "src": "/blog/([^/]+)", "dest": "/blog/$1.html" },
     { "src": "/(.*)", "dest": "/$1" }
+    { "src": "/calendar", "dest": "/calendar.html" },
+    { "src": "/calendar", "dest": "/calendar.html" },
   ]
 }
